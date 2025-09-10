@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabiSmeche
-- 👀 I’m interested in something
-- 🌱 I’m currently learning nothing
+- 👀 I’m interested in things and godot
+- 🌱 I’m currently learning godot
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me dont
 - 😄 Pronouns: i forgot
